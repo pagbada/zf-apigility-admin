@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "bshaffer/oauth2-server-php",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pagbada/oauth2-server-php.git",
-                "reference": "089b240b888cb4259fa41fb6eca0bdd10244bdad"
+                "reference": "8f5599572845c2b96aada504318d8b9c8ac55d32"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pagbada/oauth2-server-php/zipball/089b240b888cb4259fa41fb6eca0bdd10244bdad",
-                "reference": "089b240b888cb4259fa41fb6eca0bdd10244bdad",
+                "url": "https://api.github.com/repos/pagbada/oauth2-server-php/zipball/8f5599572845c2b96aada504318d8b9c8ac55d32",
+                "reference": "8f5599572845c2b96aada504318d8b9c8ac55d32",
                 "shasum": ""
             },
             "require": {
@@ -59,12 +59,13 @@
             "keywords": [
                 "auth",
                 "oauth",
-                "oauth2"
+                "oauth2",
+                "server"
             ],
             "support": {
-                "source": "https://github.com/pagbada/oauth2-server-php/tree/1.0.0"
+                "source": "https://github.com/pagbada/oauth2-server-php/tree/1.0.1"
             },
-            "time": "2024-06-17T05:44:50+00:00"
+            "time": "2024-06-18T05:06:13+00:00"
         },
         {
             "name": "container-interop/container-interop",
@@ -2479,12 +2480,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pagbada/zf-mvc-auth.git",
-                "reference": "bd265519c8d6f178163af8553bf233ec36a60aaa"
+                "reference": "754dc494dcb892dc3460d87fea07290f48dac760"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pagbada/zf-mvc-auth/zipball/bd265519c8d6f178163af8553bf233ec36a60aaa",
-                "reference": "bd265519c8d6f178163af8553bf233ec36a60aaa",
+                "url": "https://api.github.com/repos/pagbada/zf-mvc-auth/zipball/754dc494dcb892dc3460d87fea07290f48dac760",
+                "reference": "754dc494dcb892dc3460d87fea07290f48dac760",
                 "shasum": ""
             },
             "require": {
@@ -2562,7 +2563,7 @@
                 "chat": "https://zendframework-slack.herokuapp.com",
                 "forum": "https://discourse.zendframework.com/c/questions/apigility"
             },
-            "time": "2024-06-18T03:50:46+00:00"
+            "time": "2024-06-18T05:11:50+00:00"
         },
         {
             "name": "zfcampus/zf-oauth2",
@@ -2570,12 +2571,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pagbada/zf-oauth2.git",
-                "reference": "8c8827f122c902a40014775f2bb7e875c905171d"
+                "reference": "ebb7a86b7bb0abc78ae2f78433b45f53879f2564"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pagbada/zf-oauth2/zipball/8c8827f122c902a40014775f2bb7e875c905171d",
-                "reference": "8c8827f122c902a40014775f2bb7e875c905171d",
+                "url": "https://api.github.com/repos/pagbada/zf-oauth2/zipball/ebb7a86b7bb0abc78ae2f78433b45f53879f2564",
+                "reference": "ebb7a86b7bb0abc78ae2f78433b45f53879f2564",
                 "shasum": ""
             },
             "require": {
@@ -2660,7 +2661,7 @@
                 "chat": "https://zendframework-slack.herokuapp.com",
                 "forum": "https://discourse.zendframework.com/c/questions/apigility"
             },
-            "time": "2024-06-18T03:47:17+00:00"
+            "time": "2024-06-18T05:08:15+00:00"
         },
         {
             "name": "zfcampus/zf-rest",
