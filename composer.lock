@@ -8,7 +8,7 @@
     "packages": [
         {
             "name": "bshaffer/oauth2-server-php",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pagbada/oauth2-server-php.git",
@@ -63,7 +63,7 @@
                 "server"
             ],
             "support": {
-                "source": "https://github.com/pagbada/oauth2-server-php/tree/1.0.1"
+                "source": "https://github.com/pagbada/oauth2-server-php/tree/1.0.2"
             },
             "time": "2024-06-18T05:06:13+00:00"
         },
@@ -1990,12 +1990,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pagbada/zf-apigility.git",
-                "reference": "04b274b7147d26122cbf78f4227727f7cc2942b6"
+                "reference": "e42e521cb93dd8ceed13d8a19f01a9d0a53a2301"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pagbada/zf-apigility/zipball/04b274b7147d26122cbf78f4227727f7cc2942b6",
-                "reference": "04b274b7147d26122cbf78f4227727f7cc2942b6",
+                "url": "https://api.github.com/repos/pagbada/zf-apigility/zipball/e42e521cb93dd8ceed13d8a19f01a9d0a53a2301",
+                "reference": "e42e521cb93dd8ceed13d8a19f01a9d0a53a2301",
                 "shasum": ""
             },
             "require": {
@@ -2085,7 +2085,7 @@
                 "chat": "https://zendframework-slack.herokuapp.com",
                 "forum": "https://discourse.zendframework.com/c/questions/apigility"
             },
-            "time": "2024-06-18T03:52:33+00:00"
+            "time": "2024-06-18T05:50:10+00:00"
         },
         {
             "name": "zfcampus/zf-apigility-admin-ui",
@@ -2480,12 +2480,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pagbada/zf-mvc-auth.git",
-                "reference": "754dc494dcb892dc3460d87fea07290f48dac760"
+                "reference": "35fd472bb225fac2d89511bab18c26def9d83c69"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pagbada/zf-mvc-auth/zipball/754dc494dcb892dc3460d87fea07290f48dac760",
-                "reference": "754dc494dcb892dc3460d87fea07290f48dac760",
+                "url": "https://api.github.com/repos/pagbada/zf-mvc-auth/zipball/35fd472bb225fac2d89511bab18c26def9d83c69",
+                "reference": "35fd472bb225fac2d89511bab18c26def9d83c69",
                 "shasum": ""
             },
             "require": {
@@ -2563,7 +2563,7 @@
                 "chat": "https://zendframework-slack.herokuapp.com",
                 "forum": "https://discourse.zendframework.com/c/questions/apigility"
             },
-            "time": "2024-06-18T05:11:50+00:00"
+            "time": "2024-06-18T05:48:55+00:00"
         },
         {
             "name": "zfcampus/zf-oauth2",
@@ -2571,12 +2571,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pagbada/zf-oauth2.git",
-                "reference": "ebb7a86b7bb0abc78ae2f78433b45f53879f2564"
+                "reference": "6588cdf4d44094038b7f1d2af103bed0b2af612b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pagbada/zf-oauth2/zipball/ebb7a86b7bb0abc78ae2f78433b45f53879f2564",
-                "reference": "ebb7a86b7bb0abc78ae2f78433b45f53879f2564",
+                "url": "https://api.github.com/repos/pagbada/zf-oauth2/zipball/6588cdf4d44094038b7f1d2af103bed0b2af612b",
+                "reference": "6588cdf4d44094038b7f1d2af103bed0b2af612b",
                 "shasum": ""
             },
             "require": {
@@ -2661,7 +2661,7 @@
                 "chat": "https://zendframework-slack.herokuapp.com",
                 "forum": "https://discourse.zendframework.com/c/questions/apigility"
             },
-            "time": "2024-06-18T05:08:15+00:00"
+            "time": "2024-06-18T05:45:44+00:00"
         },
         {
             "name": "zfcampus/zf-rest",
