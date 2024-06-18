@@ -1990,12 +1990,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pagbada/zf-apigility.git",
-                "reference": "e42e521cb93dd8ceed13d8a19f01a9d0a53a2301"
+                "reference": "4b2525ef99e0d3a7c70d526f52bec073325191f2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pagbada/zf-apigility/zipball/e42e521cb93dd8ceed13d8a19f01a9d0a53a2301",
-                "reference": "e42e521cb93dd8ceed13d8a19f01a9d0a53a2301",
+                "url": "https://api.github.com/repos/pagbada/zf-apigility/zipball/4b2525ef99e0d3a7c70d526f52bec073325191f2",
+                "reference": "4b2525ef99e0d3a7c70d526f52bec073325191f2",
                 "shasum": ""
             },
             "require": {
@@ -2085,7 +2085,7 @@
                 "chat": "https://zendframework-slack.herokuapp.com",
                 "forum": "https://discourse.zendframework.com/c/questions/apigility"
             },
-            "time": "2024-06-18T05:50:10+00:00"
+            "time": "2024-06-18T06:11:16+00:00"
         },
         {
             "name": "zfcampus/zf-apigility-admin-ui",
@@ -2480,12 +2480,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pagbada/zf-mvc-auth.git",
-                "reference": "35fd472bb225fac2d89511bab18c26def9d83c69"
+                "reference": "62ee7f26f6c958d3b9e9c3158c2e08bf723d4dce"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pagbada/zf-mvc-auth/zipball/35fd472bb225fac2d89511bab18c26def9d83c69",
-                "reference": "35fd472bb225fac2d89511bab18c26def9d83c69",
+                "url": "https://api.github.com/repos/pagbada/zf-mvc-auth/zipball/62ee7f26f6c958d3b9e9c3158c2e08bf723d4dce",
+                "reference": "62ee7f26f6c958d3b9e9c3158c2e08bf723d4dce",
                 "shasum": ""
             },
             "require": {
@@ -2563,7 +2563,7 @@
                 "chat": "https://zendframework-slack.herokuapp.com",
                 "forum": "https://discourse.zendframework.com/c/questions/apigility"
             },
-            "time": "2024-06-18T05:48:55+00:00"
+            "time": "2024-06-18T06:08:27+00:00"
         },
         {
             "name": "zfcampus/zf-oauth2",
@@ -2669,12 +2669,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pagbada/zf-rest.git",
-                "reference": "2d9d1169f666184537f4f8b27e15619d95ddccb5"
+                "reference": "f46758eefe68611a207475c19ae65e60f3dbd81f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pagbada/zf-rest/zipball/2d9d1169f666184537f4f8b27e15619d95ddccb5",
-                "reference": "2d9d1169f666184537f4f8b27e15619d95ddccb5",
+                "url": "https://api.github.com/repos/pagbada/zf-rest/zipball/f46758eefe68611a207475c19ae65e60f3dbd81f",
+                "reference": "f46758eefe68611a207475c19ae65e60f3dbd81f",
                 "shasum": ""
             },
             "require": {
@@ -2758,7 +2758,7 @@
                 "chat": "https://zendframework-slack.herokuapp.com",
                 "forum": "https://discourse.zendframework.com/c/questions/apigility"
             },
-            "time": "2024-06-17T13:47:16+00:00"
+            "time": "2024-06-18T06:09:23+00:00"
         },
         {
             "name": "zfcampus/zf-rpc",
