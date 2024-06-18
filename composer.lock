@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e40d49d4277f076a28b6ba6f51edb6c6",
+    "content-hash": "9fe149c156844317f6586dad48835f70",
     "packages": [
         {
             "name": "bshaffer/oauth2-server-php",
-            "version": "v1.14.1",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/bshaffer/oauth2-server-php.git",
-                "reference": "096db2c86a7d67a2ba45e72be7d208c342694542"
+                "url": "https://github.com/pagbada/oauth2-server-php.git",
+                "reference": "089b240b888cb4259fa41fb6eca0bdd10244bdad"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bshaffer/oauth2-server-php/zipball/096db2c86a7d67a2ba45e72be7d208c342694542",
-                "reference": "096db2c86a7d67a2ba45e72be7d208c342694542",
+                "url": "https://api.github.com/repos/pagbada/oauth2-server-php/zipball/089b240b888cb4259fa41fb6eca0bdd10244bdad",
+                "reference": "089b240b888cb4259fa41fb6eca0bdd10244bdad",
                 "shasum": ""
             },
             "require": {
@@ -44,7 +44,6 @@
                     "OAuth2": "src/"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -63,10 +62,9 @@
                 "oauth2"
             ],
             "support": {
-                "issues": "https://github.com/bshaffer/oauth2-server-php/issues",
-                "source": "https://github.com/bshaffer/oauth2-server-php/tree/v1.14.1"
+                "source": "https://github.com/pagbada/oauth2-server-php/tree/1.0.0"
             },
-            "time": "2023-07-07T17:53:54+00:00"
+            "time": "2024-06-17T05:44:50+00:00"
         },
         {
             "name": "container-interop/container-interop",
@@ -1991,12 +1989,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pagbada/zf-apigility.git",
-                "reference": "eacadab2a7010ae66c71086e3f6d257a985d7200"
+                "reference": "04b274b7147d26122cbf78f4227727f7cc2942b6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pagbada/zf-apigility/zipball/eacadab2a7010ae66c71086e3f6d257a985d7200",
-                "reference": "eacadab2a7010ae66c71086e3f6d257a985d7200",
+                "url": "https://api.github.com/repos/pagbada/zf-apigility/zipball/04b274b7147d26122cbf78f4227727f7cc2942b6",
+                "reference": "04b274b7147d26122cbf78f4227727f7cc2942b6",
                 "shasum": ""
             },
             "require": {
@@ -2086,7 +2084,7 @@
                 "chat": "https://zendframework-slack.herokuapp.com",
                 "forum": "https://discourse.zendframework.com/c/questions/apigility"
             },
-            "time": "2024-06-17T13:49:15+00:00"
+            "time": "2024-06-18T03:52:33+00:00"
         },
         {
             "name": "zfcampus/zf-apigility-admin-ui",
@@ -2481,12 +2479,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pagbada/zf-mvc-auth.git",
-                "reference": "09be621e340a09640b231c2be72bc59fb33fd5c1"
+                "reference": "bd265519c8d6f178163af8553bf233ec36a60aaa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pagbada/zf-mvc-auth/zipball/09be621e340a09640b231c2be72bc59fb33fd5c1",
-                "reference": "09be621e340a09640b231c2be72bc59fb33fd5c1",
+                "url": "https://api.github.com/repos/pagbada/zf-mvc-auth/zipball/bd265519c8d6f178163af8553bf233ec36a60aaa",
+                "reference": "bd265519c8d6f178163af8553bf233ec36a60aaa",
                 "shasum": ""
             },
             "require": {
@@ -2564,7 +2562,7 @@
                 "chat": "https://zendframework-slack.herokuapp.com",
                 "forum": "https://discourse.zendframework.com/c/questions/apigility"
             },
-            "time": "2024-06-17T13:39:56+00:00"
+            "time": "2024-06-18T03:50:46+00:00"
         },
         {
             "name": "zfcampus/zf-oauth2",
@@ -2572,12 +2570,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pagbada/zf-oauth2.git",
-                "reference": "6016e2ed7f5743bd6be61b5f724d91f333a5b513"
+                "reference": "8c8827f122c902a40014775f2bb7e875c905171d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pagbada/zf-oauth2/zipball/6016e2ed7f5743bd6be61b5f724d91f333a5b513",
-                "reference": "6016e2ed7f5743bd6be61b5f724d91f333a5b513",
+                "url": "https://api.github.com/repos/pagbada/zf-oauth2/zipball/8c8827f122c902a40014775f2bb7e875c905171d",
+                "reference": "8c8827f122c902a40014775f2bb7e875c905171d",
                 "shasum": ""
             },
             "require": {
@@ -2662,7 +2660,7 @@
                 "chat": "https://zendframework-slack.herokuapp.com",
                 "forum": "https://discourse.zendframework.com/c/questions/apigility"
             },
-            "time": "2024-06-17T13:38:18+00:00"
+            "time": "2024-06-18T03:47:17+00:00"
         },
         {
             "name": "zfcampus/zf-rest",

@@ -96,10 +96,6 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/pagbada/zf-apigility"
-        },
-        {
-            "type": "vcs",
             "url": "https://github.com/pagbada/zf-oauth2"
         },
         {
@@ -109,6 +105,14 @@
         {
             "type": "vcs",
             "url": "https://github.com/pagbada/zf-rest"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/pagbada/oauth2-server-php"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/pagbada/zf-apigility"
         }
     ]
 }
